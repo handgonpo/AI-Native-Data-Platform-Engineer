@@ -1,0 +1,17 @@
+{
+  "event_id": "evt-order-002",
+  "event_type": "order_created",
+  "schema_version": "1.0.0",
+  "source_system": "shopping_mall",
+  "event_time": "2026-07-21T13:05:00+09:00",
+  "payload": {
+    "order_id": "",
+    "customer_id": "USER-002",
+    "total_amount": -5000,
+    "currency": "KRW",
+    "item_count": 0
+  }
+}
+
+
+
